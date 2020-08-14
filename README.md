@@ -1,4 +1,4 @@
-### Hello👋 My name is Minsu and I lived in Republic of Korea.<br/>
+### Hello👋 I lived in Republic of Korea.<br/>
 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minsu-kim-336289160/)](https://www.linkedin.com/in/minsu-kim-336289160/) 
  [![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/alstn2468)](https://www.facebook.com/alstn2468) [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/minsu._.0102/)](https://www.instagram.com/minsu._.0102/)--> 
