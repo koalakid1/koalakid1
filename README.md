@@ -17,5 +17,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-![Minsu's github stats](https://github-readme-stats.vercel.app/api?username=koalakid1&show_icons=true&hide_border=true)
+
+<!--[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=comojin1994&theme=dark)-->
+![koalakid1's github stats](https://github-readme-stats.vercel.app/api?username=comojin1994&theme=dark&show_icons=true)
+[![koalakid @ solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=koalakid)](https://solved.ac/profile/koalakid)
 
