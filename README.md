@@ -71,11 +71,6 @@
         Bachelor of Science in Mathematics at DGU
       </a>
     </li>
-    <li>
-      <a href="https://github.com/koalakid1/koalakid1/blob/master/docs/%ED%8B%B0%EC%95%84%EC%9D%B4%EC%97%90%EC%8A%A4%20%EC%88%98%EB%A3%8C%EC%A6%9D.pdf">
-        TIS정보기술교육센터
-      </a>
-    </li>
    <li>
       <a href="https://github.com/koalakid1/koalakid1">
         Software Maestro 12th
@@ -90,6 +85,11 @@
     <li>
       <a href="https://events.comp.nus.edu.sg/view/17028">
         Presentations at NUS about <b>"AI Personal Training service Home PT"</b>
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/koalakid1/koalakid1/blob/master/docs/%ED%8B%B0%EC%95%84%EC%9D%B4%EC%97%90%EC%8A%A4%20%EC%88%98%EB%A3%8C%EC%A6%9D.pdf">
+        Certification of <b>"자바(JAVA)와 오픈소스 프레임워크를 활용한 응용SW개발자 양성 과정"</b> in TIS정보기술교육센터
       </a>
     </li>
     <li>
