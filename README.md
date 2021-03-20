@@ -51,7 +51,7 @@
       </a>
     </li>
     <li>
-      <a href="https://github.com/koalakid1/koalakid1/blob/master/docs/2019%20%EB%8F%99%EA%B5%AD%EB%8C%80%ED%95%99%EA%B5%90%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C%20%EC%9E%A5%EB%A0%A4%EC%83%81.pdf">
+      <a href="https://github.com/koalakid1/koalakid1/blob/master/docs/2020%20FARM%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C%20%EC%9E%A5%EB%A0%A4%EC%83%81.pdf">
         Encouragement Award in Dongguk ICT FARM Competition, AI Baseball Referee SMART Referee, 2020
       </a>
     </li>
