@@ -5,7 +5,7 @@
 <img src="https://badges.pufler.dev/visits/koalakid1/koalakid1?style=flat-square&color=black&logo=github">
 </a>
 
-#### 💻 Junior Developers Interested in AI.
+#### 💻 Junior Developers Interested in BE.
 
 <details open="open">
   <summary><b>💡 Projects</b></summary>
