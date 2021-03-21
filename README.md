@@ -71,11 +71,11 @@
         Bachelor of Science in Mathematics at DGU
       </a>
     </li>
-   <li>
+<!--    <li>
       <a href="https://github.com/koalakid1/koalakid1">
         Software Maestro 12th
       </a>
-    </li>
+    </li> -->
   </ul>
 </details>
 
