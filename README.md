@@ -1,4 +1,4 @@
-### Hi👋 My name is Taemin and I lived in Republic of Korea.<br/>
+### Hi👋 My name is Taemin and I live in Republic of Korea.<br/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taemin-lee-%EC%9D%B4%ED%83%9C%EB%AF%BC-9b8393202/)](https://www.linkedin.com/in/taemin-lee-%EC%9D%B4%ED%83%9C%EB%AF%BC-9b8393202/) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100004463082624)](https://www.facebook.com/profile.php?id=100004463082624) [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/taemin_925/)](https://www.instagram.com/taemin_925/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:koalakid154@gmail.com)](mailto:koalakid154@gmail.com)
 <a href="https://github.com/koalakid1">
