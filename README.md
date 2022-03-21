@@ -25,7 +25,14 @@
         FE Engineer at <b>"내 손안의 똑똑한 AI 펀드매니저, STOCK𝝨R"</b>
       </a>
     </li>
+    <li>
+      <a href="https://github.com/SWM12TH-FitBuddy/HomeBody-BackEnd-Public-">
+        AI, BE Engineer at <b>"HomeBody"</b>
+      </a>
+    </li>
   </ul>
+  
+  
 </details>
 
 <details open="open">
@@ -100,6 +107,11 @@
     <li>
       <a href="https://github.com/koalakid1/koalakid1/blob/master/docs/%EC%BD%94%EB%8D%94%EC%8A%A4%ED%95%98%EC%9D%B4%20%EA%B5%90%EC%9C%A1%EA%B3%BC%EC%A0%95.pdf">
         Certification of <b>"2021 IOS App 개발 교육"</b>
+      </a>
+    </li>
+    <li>
+      <a href="https://www.swmaestro.org/sw/singl/projectIntc/list.do?menuNo=200013">
+        Certification of <b>"Homebody - SW maestro 12기 우수자 선정"</b>
       </a>
     </li>
   </ul>
