@@ -110,6 +110,21 @@
       </a>
     </li>
     <li>
+      <a href="https://github.com/koalakid1/koalakid1/blob/master/docs/SAP%20Design%20Thinking%20Workshop.pdf">
+        Certification of <b>"SAP Design Thinking Workshop"</b>
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/koalakid1/koalakid1/blob/master/docs/%E1%84%8C%E1%85%A612%E1%84%80%E1%85%B5%20SW%E1%84%86%E1%85%A1%E1%84%8B%E1%85%A6%E1%84%89%E1%85%B3%E1%84%90%E1%85%B3%E1%84%85%E1%85%A9%20%E1%84%80%E1%85%AD%E1%84%8B%E1%85%B2%E1%86%A8%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A5%E1%86%BC%20%E1%84%89%E1%85%AE%E1%84%85%E1%85%AD.pdf">
+        Certification of <b>"제12기 SW마에스트로 교육과정"</b>
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/koalakid1/koalakid1/blob/master/docs/Fundamentals%20of%20Entrepreneurship.pdf">
+        Certification of <b>"Fundamentals of Entrepreneurship"</b>
+      </a>
+    </li>
+    <li>
       <a href="https://www.swmaestro.org/sw/singl/projectIntc/list.do?menuNo=200013">
         Certification of <b>"Homebody - SW maestro 12기 우수자 선정"</b>
       </a>
